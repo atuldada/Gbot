@@ -13,5 +13,6 @@ Api.ai :An open source google platform for dealing with human speech interaction
 <b>supports</b>
 textual hindi and english support.
 verbal english support.
+can be tested with e-mitra transaction platform(aggregator linking).
 
 
