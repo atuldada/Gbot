@@ -1,5 +1,5 @@
-# Gbot
-\n
+# G-bot
+
 Initially the app is logged in with atul dada thats me!\n
 
 you can talk with this app for hours and can enjoy all the government services done at a single point.\n
